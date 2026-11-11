@@ -114,8 +114,7 @@ An image steganography analysis system for detecting hidden data, extracting pay
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 </p>
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 <h3 align="center">User Management using REST API</h3>
 <div align="center">
