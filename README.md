@@ -173,24 +173,20 @@ A RESTful API for managing user records with CRUD operations, request validation
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/AdithVinod">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="linkedin.com/in/adith-vinod">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:adithvinod76@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
+## 🤝 Connect With Me
+
 <div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithVinod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/adith-vinod)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithvinod76@gmail.com)
+
+<br/>
 
 ### 💻 Keep Building. Keep Learning. Keep Growing.
 
 </div>
+
