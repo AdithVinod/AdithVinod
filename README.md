@@ -155,10 +155,16 @@ A RESTful API for managing user records with CRUD operations, request validation
 
 ---
 
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Adith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdithVinod&theme=tokyo-night&hide_border=true)](https://github.com/AdithVinod)
+<a href="https://github.com/AdithVinod">
+  <img src="https://img.shields.io/badge/View_My_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
