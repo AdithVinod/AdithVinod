@@ -142,9 +142,9 @@ A RESTful API for managing user records with CRUD operations, request validation
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithVinod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithVinod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithVinod&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithVinod&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <br/>
 
@@ -168,3 +168,29 @@ A RESTful API for managing user records with CRUD operations, request validation
 
 </div>
 
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AdithVinod">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="linkedin.com/in/adith-vinod">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:adithvinod76@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Keep Building. Keep Learning. Keep Growing.
+
+</div>
