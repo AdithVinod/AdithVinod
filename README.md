@@ -99,7 +99,7 @@ A movie browsing application featuring movie cards and dynamic movie data using 
 
 <tr>
 <td width="50%">
-<h3 align="center">SecureBlendX</h3>
+<h3 align="center">Stego Image Detection and Region Mapping</h3>
 <div align="center">
 <a href="YOUR_SECUREBLENDX_REPOSITORY_LINK">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -112,6 +112,25 @@ An image steganography analysis system for detecting hidden data, extracting pay
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">User Management using REST API</h3>
+<div align="center">
+<a href="YOUR_USER_MANAGEMENT_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+<p align="center">
+A RESTful API for managing user records with CRUD operations, request validation and error handling.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
 </p>
 </td>
 </tr>
