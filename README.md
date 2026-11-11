@@ -135,3 +135,20 @@ A RESTful API for managing user records with CRUD operations, request validation
 </tr>
 </table>
 
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdithVinod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithVinod&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AdithVinod&theme=tokyonight&hide_border=true" />
+
+</div>
+
