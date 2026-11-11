@@ -202,11 +202,6 @@ A RESTful API for managing user records with CRUD operations, request validation
 
 ## 🤝 Connect With Me
 
-
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdithVinod)
