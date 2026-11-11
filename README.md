@@ -28,32 +28,61 @@ I build responsive and scalable web applications using modern web technologies.
 
 ---
 
-## 🛠️ Languages and Technologies
+
+---
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  Technologies and tools I work with
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 ### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=js,python,java,c&theme=dark" />
+
+</td>
+<td align="center" width="50%">
 
 ### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
 
 ### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
 
-### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 
 ### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+
+</td>
+</tr>
+</table>
+
 
 
 ---
