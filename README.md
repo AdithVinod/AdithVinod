@@ -12,3 +12,16 @@
 I build responsive and scalable web applications using modern web technologies.
 
 </div>
+
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering graduate.
+- 💻 Focused on building full-stack web applications using the MERN stack.
+- ⚛️ Working with React.js, Node.js, Express.js and MongoDB.
+- 🚀 Interested in developing real-world applications and exploring new technologies.
+- 🎯 Focused on improving my development skills through hands-on projects.
+- 🤝 Open to collaborating on interesting web development projects.
+
