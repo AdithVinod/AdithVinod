@@ -25,3 +25,34 @@ I build responsive and scalable web applications using modern web technologies.
 - 🎯 Focused on improving my development skills through hands-on projects.
 - 🤝 Open to collaborating on interesting web development projects.
 
+
+---
+
+## 🛠️ Languages and Technologies
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+
